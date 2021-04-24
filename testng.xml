@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/suganya/IdeaProjects/httpclient/untitled/SeleniumMaven/src/test/java/listeners/ListenersTest.java">
+        <classes>
+            <class name="listeners.ListenersTest">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
